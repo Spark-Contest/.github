@@ -16,6 +16,18 @@ flowchart LR
     c --> d[공식 공고 페이지로 이동]
 ```
 
+### 이용 흐름
+
+```mermaid
+sequenceDiagram
+    participant U as 사용자
+    participant S as Spark
+    U->>S: 관심 분야 설정
+    S->>U: 맞춤 공모전 목록 제공
+    U->>S: 관심 공고 저장
+    S->>U: 마감일 D-Day 알림
+```
+
 ## 이런 분께 추천합니다
 
 - 포트폴리오에 넣을 공모전을 꾸준히 찾는 대학생·취준생
