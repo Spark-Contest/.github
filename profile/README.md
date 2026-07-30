@@ -1,6 +1,6 @@
 # Spark — 국내 공모전 정보 & 맞춤 알림
 
-📱 [App Store](https://apps.apple.com/app/id6782085427) · 🔒 [개인정보처리방침](https://spark.sanglimsoft.com/privacy/) · 💬 [고객지원](https://spark.sanglimsoft.com/support/)
+📱 [App Store](https://apps.apple.com/app/id6782085427) · 🤖 [Google Play](https://play.google.com/store/apps/details?id=com.contest.alarm&hl=ko) · 🔒 [개인정보처리방침](https://spark.sanglimsoft.com/privacy/) · 💬 [고객지원](https://spark.sanglimsoft.com/support/)
 
 **Spark**는 여기저기 흩어진 국내 공모전·대외활동 공고를 한곳에 모아, 관심사에 맞는 공고만 골라 마감일을 놓치지 않도록 알려주는 서비스입니다.
 
